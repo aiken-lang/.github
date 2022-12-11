@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/txpipe/aiken/main/assets/logo-light.png?sanitize=true#gh-dark-mode-only" alt="Aiken" width="240" />
-  <img src="https://raw.githubusercontent.com/txpipe/aiken/main/assets/logo-dark.png?sanitize=true#gh-light-mode-only" alt="Aiken" width="240" />
+  <img src="https://raw.githubusercontent.com/aiken-lang/aiken/main/assets/logo-light.png?sanitize=true#gh-dark-mode-only" alt="Aiken" width="240" />
+  <img src="https://raw.githubusercontent.com/aiken-lang/aiken/main/assets/logo-dark.png?sanitize=true#gh-light-mode-only" alt="Aiken" width="240" />
   <hr />
 <h2 align="center" style="border-bottom: none"><img src="https://raw.githubusercontent.com/cardano-foundation/state-of-the-developer-ecosystem/main/.github/icon.svg" height="25"> Cardano smart-contract language and toolkit</h2>
 </p>
@@ -17,9 +17,9 @@ Be part of the journey and join our welcoming community on [TxPipe's Discord](ht
 
 This Github organization references all core projects related to Aiken.
 
-- The [core](https://github.com/aiken-lang/core) repository contains the magic; This is where the compiler is developed, as well as the base tools for Aiken and Plutus core.
+- The [core](https://github.com/aiken-lang/aiken) repository contains the magic; This is where the compiler is developed, as well as the base tools for Aiken and Plutus core.
 
-- Aiken standard's library can be found in [std_lib](https://github.com/aiken-lang/std_lib). The standard library is entirely written and checked using Aiken which makes it good place to see some first real Aiken code.
+- Aiken standard's library can be found in [stdlib](https://github.com/aiken-lang/stdlib). The standard library is entirely written and checked using Aiken which makes it good place to see some first real Aiken code.
 
 - We provide syntax highlighting for Aiken for various editors. So far:
 
