@@ -17,7 +17,7 @@ Be part of the journey and join our welcoming community on [TxPipe's Discord](ht
 
 This Github organization references all core projects related to Aiken.
 
-- The [core](https://github.com/aiken-lang/aiken) repository contains the magic; This is where the compiler is developed, as well as the base tools for Aiken and Plutus core.
+- The [aiken](https://github.com/aiken-lang/aiken) repository contains the magic; This is where the compiler is developed, as well as the base tools for Aiken and Plutus core.
 
 - Aiken standard's library can be found in [stdlib](https://github.com/aiken-lang/stdlib). The standard library is entirely written and checked using Aiken which makes it good place to see some first real Aiken code.
 
