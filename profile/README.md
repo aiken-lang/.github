@@ -31,3 +31,19 @@ This Github organization references all core projects related to Aiken.
 ## <img src="https://raw.githubusercontent.com/CardanoSolutions/ogmios/master/.github/twitter.svg" height="32" /> Follow us
 
 Follow us on Twitter [@aiken_eng](https://twitter.com/aiken_eng) for updates and chats about the future of Aiken.
+
+## Sponsors
+
+<table>
+<tr>
+<td style="text-align: center"><img src="https://txpipe.io/logo.svg" height="75" /></td>
+<td style="text-align: center">
+<img src="https://raw.githubusercontent.com/aiken-lang/.github/main/.github/CF-Logo-Full-Blue_1500px.png?sanitize=true#gh-light-mode-only" height="75" />
+<img src="https://raw.githubusercontent.com/aiken-lang/.github/main/.github/CF-Logo-Full-White_1500px.png?sanitize=true#gh-dark-mode-only" height="75" />
+</td>
+</tr>
+<tr>
+<td style="text-align: center"><a href="https://txpipe.io">TxPipe</a></td>
+<td style="text-align: center"><a href="https://cardanofoundation.org">Cardano Foundation</a></td>
+</tr>
+</table>
