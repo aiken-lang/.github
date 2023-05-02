@@ -9,6 +9,9 @@
 
 Looking for getting started with programming on Cardano? You have found the right place. Aiken is a small purely functional language that you can [learn in 10 minutes](https://aiken-lang.org/). The language comes with a variety of command-line tools to help you be productive right away.
 
+Looking for a list of awesome Aiken-related stuff? Look no more: [aiken-lang/awesome-aiken](https://github.com/aiken-lang/awesome-aiken).
+
+
 ## <img src="https://raw.githubusercontent.com/CardanoSolutions/ogmios/master/.github/discord.svg" height="24" /> Community
 
 Be part of the journey and join our welcoming community on [TxPipe's Discord](https://discord.gg/4hUAdHAexb).
