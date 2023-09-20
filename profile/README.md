@@ -30,7 +30,7 @@ This Github organization references all core projects related to Aiken.
   | ---        | ---                                                                                    |
   | vim/neovim | [`editor-integration-nvim`](https://github.com/aiken-lang/editor-integration-nvim)     |
   | VSCode     | [`vscode-aiken`](https://github.com/aiken-lang/vscode-aiken)                           |
-  | emacs      | [`aiken-mode`](https://github.com/ch1bo/aiken-mode)                                    |
+  | emacs      | [`aiken-mode`](https://github.com/aiken-lang/aiken-mode)                                    |
 
 ## <img src="https://raw.githubusercontent.com/CardanoSolutions/ogmios/master/.github/twitter.svg" height="32" /> Follow us
 
