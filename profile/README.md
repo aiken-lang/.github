@@ -7,7 +7,7 @@
 
 ## 🚀 Getting Started
 
-Looking for getting started with programming on Cardano? You have found the right place. Aiken is a small purely functional language that you can [learn in 10 minutes](https://aiken-lang.org/). The language comes with a variety of command-line tools to help you be productive right away.
+Looking for getting started with programming on Cardano? You have found the right place. Aiken is a small purely functional language that you can [learn in 10 minutes](https://aiken-lang.org/fundamentals/getting-started). The language comes with a variety of command-line tools to help you be productive right away.
 
 Looking for a list of awesome Aiken-related stuff? Look no more: [aiken-lang/awesome-aiken](https://github.com/aiken-lang/awesome-aiken).
 
@@ -20,11 +20,25 @@ Be part of the journey and join our welcoming community on [TxPipe's Discord](ht
 
 This Github organization references all core projects related to Aiken.
 
-- The [aiken](https://github.com/aiken-lang/aiken) repository contains the magic; This is where the compiler is developed, as well as the base tools for Aiken and Plutus core.
+### The compiler
 
-- Aiken standard's library can be found in [stdlib](https://github.com/aiken-lang/stdlib). The standard library is entirely written and checked using Aiken which makes it good place to see some first real Aiken code.
+The [aiken](https://github.com/aiken-lang/aiken) repository contains the magic; This is where the compiler is developed, as well as the base tools for Aiken and Plutus core.
 
-- We provide syntax highlighting for Aiken for various editors. So far:
+### The standard library (a.k.a `stdlib`)
+
+Aiken standard's library can be found in [stdlib](https://github.com/aiken-lang/stdlib). The standard library is entirely written and checked using Aiken which makes it good place to see some first real Aiken code.
+
+### The awesome list
+
+If you're looking for a collection of (curated) awesome Aiken libraries, DApps, tutorials & other cool stuff: the [awesome list](https://github.com/aiken-lang/awesome-aiken) is a good place to start!
+
+### Github integration
+
+Aiken comes with battery-included because we want developers to have the best possible experience. This also means providing an out-of-the-box [GitHub action](https://github.com/marketplace/actions/setup-aiken) to setup Aiken for your workflows, check formatting, run tests and generate docs. 
+
+### Editors integrations
+
+We provide syntax highlighting for Aiken for various editors. So far:
 
   | Editor     | Repository                                                                             |
   | ---        | ---                                                                                    |
