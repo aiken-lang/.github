@@ -42,6 +42,7 @@ We provide syntax highlighting for Aiken for various editors. So far:
 
   | Editor     | Repository                                                                             |
   | ---        | ---                                                                                    |
+  | Zed        | [`zed-aiken`](https://github.com/aiken-lang/zed-aiken)                                 |
   | Vim/NeoVim | [`editor-integration-nvim`](https://github.com/aiken-lang/editor-integration-nvim)     |
   | VSCode     | [`vscode-aiken`](https://github.com/aiken-lang/vscode-aiken)                           |
   | Emacs      | [`aiken-mode`](https://github.com/aiken-lang/aiken-mode)                                    |
