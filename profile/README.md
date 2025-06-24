@@ -14,7 +14,7 @@ Looking for a list of awesome Aiken-related stuff? Look no more: [aiken-lang/awe
 
 ## <img src="https://raw.githubusercontent.com/CardanoSolutions/ogmios/master/.github/discord.svg" height="24" /> Community
 
-Be part of the journey and join our welcoming community on [TxPipe's Discord](https://discord.gg/4hUAdHAexb).
+Be part of the journey and join our welcoming community on [TxPipe's Discord](https://discord.com/invite/RgHzxh92WH).
 
 ## ✨ Discover
 
