@@ -34,7 +34,7 @@ If you're looking for a collection of (curated) awesome Aiken libraries, DApps, 
 
 ### Github integration
 
-Aiken comes with battery-included because we want developers to have the best possible experience. This also means providing an out-of-the-box [GitHub action](https://github.com/marketplace/actions/setup-aiken) to setup Aiken for your workflows, check formatting, run tests and generate docs. 
+Aiken comes with battery-included because we want developers to have the best possible experience. This also means providing an out-of-the-box [GitHub action](https://github.com/marketplace/actions/setup-aiken) to setup Aiken for your workflows, check formatting, run tests and generate docs.
 
 ### Editors integrations
 
@@ -47,10 +47,6 @@ We provide syntax highlighting for Aiken for various editors. So far:
   | VSCode     | [`vscode-aiken`](https://github.com/aiken-lang/vscode-aiken)                           |
   | Emacs      | [`aiken-mode`](https://github.com/aiken-lang/aiken-mode)                               |
   | IntelliJ   | [`intellij`](https://github.com/MedusaLabs-cardano/intellij_aiken)                     |
-
-## <img src="https://raw.githubusercontent.com/CardanoSolutions/ogmios/master/.github/twitter.svg" height="32" /> Follow us
-
-Follow us on Twitter [@aiken_eng](https://twitter.com/aiken_eng) for updates and chats about the future of Aiken.
 
 ## Sponsors
 
