@@ -14,7 +14,7 @@ Looking for a list of awesome Aiken-related stuff? Look no more: [aiken-lang/awe
 
 ## <img src="https://raw.githubusercontent.com/CardanoSolutions/ogmios/master/.github/discord.svg" height="24" /> Community
 
-Be part of the journey and join our welcoming community on [TxPipe's Discord](https://discord.com/invite/RgHzxh92WH).
+Be part of the journey and join our welcoming community on [PRAGMA's Discord](https://discord.gg/JnWjkrErJr).
 
 ## ✨ Discover
 
@@ -34,7 +34,7 @@ If you're looking for a collection of (curated) awesome Aiken libraries, DApps, 
 
 ### Github integration
 
-Aiken comes with battery-included because we want developers to have the best possible experience. This also means providing an out-of-the-box [GitHub action](https://github.com/marketplace/actions/setup-aiken) to setup Aiken for your workflows, check formatting, run tests and generate docs. 
+Aiken comes with battery-included because we want developers to have the best possible experience. This also means providing an out-of-the-box [GitHub action](https://github.com/marketplace/actions/setup-aiken) to setup Aiken for your workflows, check formatting, run tests and generate docs.
 
 ### Editors integrations
 
@@ -45,11 +45,8 @@ We provide syntax highlighting for Aiken for various editors. So far:
   | Zed        | [`zed-aiken`](https://github.com/aiken-lang/zed-aiken)                                 |
   | Vim/NeoVim | [`editor-integration-nvim`](https://github.com/aiken-lang/editor-integration-nvim)     |
   | VSCode     | [`vscode-aiken`](https://github.com/aiken-lang/vscode-aiken)                           |
-  | Emacs      | [`aiken-mode`](https://github.com/aiken-lang/aiken-mode)                                    |
-
-## <img src="https://raw.githubusercontent.com/CardanoSolutions/ogmios/master/.github/twitter.svg" height="32" /> Follow us
-
-Follow us on Twitter [@aiken_eng](https://twitter.com/aiken_eng) for updates and chats about the future of Aiken.
+  | Emacs      | [`aiken-mode`](https://github.com/aiken-lang/aiken-mode)                               |
+  | IntelliJ   | [`intellij`](https://github.com/MedusaLabs-cardano/intellij_aiken)                     |
 
 ## Sponsors
 
